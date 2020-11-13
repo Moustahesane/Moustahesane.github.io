@@ -1,0 +1,58 @@
+
+{
+        "version" : "1.0",
+        "language" : "french",
+        "date" : "11/11/2020",
+
+
+        "strings" : {
+             
+            "homePage" : {
+             "title" : "Business is Now Digital",
+             "guid" : [
+                 "Lorem1",
+                 "Lorem2",
+                 "Lorem3"
+             ],
+             "btnLeft" : "Paly Store",
+             "btnRight" : "Apple Store"
+
+
+
+
+            },
+            "workspace" : {
+
+                "header" : "HEADER",
+                "rightCardHeader" :"Personnaliser",
+                "save" : "Enregister",
+                "saveOCR" : "Enregister PDF + OCR",
+                "listOfImages" : "Listes des images"
+     
+
+
+
+            },
+            "ocr": {
+                "titre": "Reconnaissance du texte",
+                "waitingText": "  Cette opération peut prendre quelques minutes, prière de patienter.",
+                "doneText": "La reconnaissance du texte a été finalisée avec succès. ",
+                "fr": "Français",
+                "ar": "العربية",
+                "en": "English",
+                "lang": "Préciser la langue du document :",
+                "titreLangue": "Reconnaissance du texte",
+                "decl": "Déclencher",
+                "cancel" :"Annuler",
+                "save" : "Enregister"
+            }
+
+
+
+
+        }
+
+
+
+
+}
